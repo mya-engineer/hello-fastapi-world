@@ -1,5 +1,11 @@
 # python
 __pycache__/
 
+# tests
+.mypy_cache/
+.pytest_cache/
+.coverage
+
 # other
 venv/
+.vscode/
