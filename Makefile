@@ -1,2 +1,2 @@
 start:
-	uvicorn jwt_auth_server.main:app --reload
+	uvicorn main:app --reload --app-dir jwt_auth_server 
